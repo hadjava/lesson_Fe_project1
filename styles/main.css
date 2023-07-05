@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+div{
+    border: 1px solid;
+    padding: 5px;
+    
+}
